@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "oficinadev",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "oficinadev",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./assets/icons/favicon.",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./assets/images/logosite.png",
+      "type": "image/png",
+      "sizes": "360x360"
+    }
+  ],
+  "id": "oficinadev",
+  "lang": "pt"
+}
