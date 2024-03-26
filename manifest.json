@@ -46,9 +46,10 @@
       "purpose": "any"
     },
     
+
     {
-      "src": "assets/icons/1024.png",
-      "sizes": "1024x1024",
+      "src": "assets/icons/512.png",
+      "sizes": "512x512",
       "type":"image/png",
       "purpose": "maskable"
     }, 
