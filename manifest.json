@@ -20,7 +20,7 @@
       "type":"image/png"
     }, 
 
-    {
+    {a
       "src": ./assets/icons,
       "sizes": "60x60",
       "type":"image/png"
