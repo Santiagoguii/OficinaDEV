@@ -15,45 +15,42 @@
     },
 
     {
-      "src": ./assets/icons,
+      "src": "assets/icons/40.png",
       "sizes": "40x40",
       "type":"image/png"
     }, 
 
     {
-      "src": ./assets/icons,
+      "src": "assets/icons/60.png",
       "sizes": "60x60",
       "type":"image/png"
     }, 
 
+  
     {
-      "src": ./assets/icons,
-      "sizes": "40x40",
-      "type":"image/png"
-    }, 
-
-    {
-      "src": ./assets/icons,
+      "src": "assets/icons/80.png",
       "sizes": "80x80",
       "type":"image/png"
     }, 
 
     {
-      "src": ./assets/icons,
+      "src": "assets/icons/114.png",
       "sizes": "114x114",
       "type":"image/png"
     }, 
 
     {
-      "src": ./assets/icons,
+      "src": "assets/icons/180.png",
       "sizes": "180x180",
-      "type":"image/png"
+      "type":"image/png",
+      "purpose": "any"
     },
     
     {
-      "src": ./assets/icons,
+      "src": "assets/icons/1024.png",
       "sizes": "1024x1024",
-      "type":"image/png"
+      "type":"image/png",
+      "purpose": "maskable"
     }, 
 
     {
@@ -65,4 +62,3 @@
   "id": "oficinadev",
   "lang": "pt"
 }
-sos
