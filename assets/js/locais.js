@@ -36,7 +36,7 @@ function initMap() {
     handleLocationError(false, infoWindow, map.getCenter());
   }
 
-  fetch("https://juanhenriq.github.io/api-mobile-map/museu.json")
+  fetch("https://santiagoguii.github.io/locais--API/locais.json")
     .then((response) => response.json())
     .then((data) => {
       data.forEach((item) => {
