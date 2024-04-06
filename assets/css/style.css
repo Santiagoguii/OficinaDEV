@@ -1301,8 +1301,13 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     height: 5rem;
   }
 
-  
-
+  #map{
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto; 
+    border-radius: 15px; 
+    overflow: hidden; 
+}
   /*===== CONTACT =====================================*/
 
   #contact .wrapper {
